@@ -24,6 +24,12 @@ function MyApp({ Component, pageProps }) {
 				src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
 			/>
 			<Script
+				defer
+				data-domain='liambrewster.co.uk'
+				src='https://plausible.liambrewster.com/js/script.js'
+			/>
+
+			<Script
 				id='ga-script'
 				strategy='afterInteractive'
 				dangerouslySetInnerHTML={{
