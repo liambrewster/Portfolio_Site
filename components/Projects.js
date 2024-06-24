@@ -93,9 +93,9 @@ export default function Projects() {
 						</p>
 						<p className='text-xl text-gray-700 mb-4 dark:text-gray-300'>
 							My focus is on creating cost effective tools that provide real, practical
-							benefits, and I'm excited about the potential to revolutionise aspects of
-							the industry. Stay tuned for updates on these ventures and see how they
-							might benefit your business in the near future!
+							benefits, and I&apos;m excited about the potential to revolutionise
+							aspects of the industry. Stay tuned for updates on these ventures and see
+							how they might benefit your business in the near future!
 						</p>
 					</div>
 				</div>
