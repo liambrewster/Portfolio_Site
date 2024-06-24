@@ -9,19 +9,19 @@ const userData = {
 	projects: [
 		{
 			title: 'Veezu',
-			link: 'https://veezu.co.uk',
+			link: 'https://veezu.co.uk/?ref=liambrewster',
 			imgUrl: '/projects/veezu.jpg',
 		},
-		{
-			title: 'Taxi Social Ai (Coming Soon)',
-			link: 'https://social.liambrewster.co.uk',
-			imgUrl: '/projects/taxisocial.jpeg',
-		},
-		{
-			title: 'Taxi Spot Finder (Coming Soon)',
-			link: 'https://taxispotfinder.liambrewster.co.uk',
-			imgUrl: '/projects/parking.jpeg',
-		},
+		// {
+		// 	title: 'Taxi Social Ai (Coming Soon)',
+		// 	link: 'https://social.liambrewster.co.uk',
+		// 	imgUrl: '/projects/taxisocial.jpeg',
+		// },
+		// {
+		// 	title: 'Taxi Spot Finder (Coming Soon)',
+		// 	link: 'https://taxispotfinder.liambrewster.co.uk',
+		// 	imgUrl: '/projects/parking.jpeg',
+		// },
 	],
 	about: {
 		title:
@@ -33,7 +33,7 @@ const userData = {
 			`In my spare time, I'm often found being crazy with my two daughters and the dog, either that or I'm shut in a dark room watching too much youtube of probably football highlights.`,
 		],
 		currentProject: 'Veezu',
-		currentProjectUrl: 'https://Veezu.co.uk',
+		currentProjectUrl: 'https://Veezu.co.uk/?ref=liambrewster',
 	},
 	services: {
 		title: 'Lets Connect and Collaborate!',
@@ -121,7 +121,7 @@ const userData = {
 			title: 'Started With Veezu',
 			company: 'City Taxis Joined Forces',
 			year: '2023',
-			companyLink: 'https://veezu.co.uk',
+			companyLink: 'https://veezu.co.uk/?ref=liambrewster',
 			desc:
 				'Helped transition into working as part of the bigger group with Veezu',
 		},
@@ -129,7 +129,7 @@ const userData = {
 			title: 'Quality and Effciencies',
 			company: 'City Taxis',
 			year: '2020',
-			companyLink: 'https://citytaxis.com',
+			companyLink: 'https://citytaxis.com/?ref=liambrewster',
 			desc:
 				'My goal is to help preserve our reputation by ensuring that our products and services are capable to drive sustainable growth in the business.',
 		},
@@ -137,7 +137,7 @@ const userData = {
 			title: 'Senior Managment Team',
 			company: 'City Taxis',
 			year: '2018',
-			companyLink: 'https://citytaxis.com',
+			companyLink: 'https://citytaxis.com/?ref=liambrewster',
 			desc:
 				'Went into a Regional operation role, My role is to be part of the senior management team, who would oversee the day to day running of the business. we strive to embrace and implement new ideas that will enhance the business.',
 		},
@@ -145,7 +145,7 @@ const userData = {
 			title: 'Project Manager / Consulations',
 			company: 'Myself',
 			year: '2014',
-			companyLink: 'https://icabbi.com/',
+			companyLink: 'https://icabbi.com//?ref=liambrewster',
 			desc:
 				'Worked with various taxi companies across the UK as a consultant to help them with projects, this would be from helping them run their business operational or training their staff to be the best. i would travel across the world, visiting place like Ireland, Germany and Even Austrailia , all around my working hours with City Taxis',
 		},
@@ -153,7 +153,7 @@ const userData = {
 			title: 'Full Time Work',
 			company: 'City Taxis Sheffield',
 			year: '2011',
-			companyLink: 'https://citytaxis.com/',
+			companyLink: 'https://citytaxis.com//?ref=liambrewster',
 			desc:
 				'even though i started in 2009, this is when i went full time working to make a positive difference to the taxi industry',
 		},
@@ -162,7 +162,7 @@ const userData = {
 			company: 'University Of Hull',
 			year: '2011',
 			companyLink:
-				'https://www.hull.ac.uk/faculties/departments/hull-university-business-school',
+				'https://www.hull.ac.uk/faculties/departments/hull-university-business-school/?ref=liambrewster',
 			desc:
 				'Graduated the Business School with a BA Hons in Sports and Leisure Management, Ready to take on the world.',
 		},

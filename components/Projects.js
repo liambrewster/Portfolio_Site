@@ -44,7 +44,8 @@ export default function Projects() {
 							</h1>
 							<p className='text-lg text-gray-500 mt-4 dark:text-gray-300'>
 								I&apos;m always looking forward to to explore potential ways of engaging
-								or collaborating with new people. Reach out and let&apos;s chat
+								or collaborating with new people. Reach out and let&apos;s chat about
+								what projects you have in mind
 							</p>
 						</div>
 						{/* Social Links */}
@@ -84,15 +85,17 @@ export default function Projects() {
 							. Currently, I&apos;m proudly associated with Veezu, where I drive
 							operational excellence.
 						</p>
-						<p className='text-xl text-gray-700 mb-4 dark:text-gray-300 '>
-							On the horizon, I&apos;m thrilled to introduce two exciting projects.
-							Meet Taxi Social Ai—a game-changer for social media branding in the taxi
-							business, crafting engaging content and visuals.
+						<p className='text-xl text-gray-700 mb-4 dark:text-gray-300'>
+							I am currently developing several small software solutions aimed at
+							addressing some of the persistent frustrations within the taxi industry
+							and beyond. These innovations are designed to enhance operational
+							efficiencies and improve user engagement across various platforms.
 						</p>
-						<p className='text-xl text-gray-700 mb-4 dark:text-gray-300 '>
-							Then there&apos;s Taxi Spot Finder—a driver-focused platform for sharing
-							prime parking spots and local insights. Join me on this exciting journey
-							ahead! and could yours be listed on here soon?
+						<p className='text-xl text-gray-700 mb-4 dark:text-gray-300'>
+							My focus is on creating cost effective tools that provide real, practical
+							benefits, and I'm excited about the potential to revolutionise aspects of
+							the industry. Stay tuned for updates on these ventures and see how they
+							might benefit your business in the near future!
 						</p>
 					</div>
 				</div>

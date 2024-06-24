@@ -59,14 +59,13 @@ export default function FavouriteProjects() {
 						</div>
 					</a>
 					{/* Single card */}
-					<a
+					{/* <a
 						href='https://social.liambrewster.co.uk'
 						className='w-full block col-span-3  sm:col-span-2 shadow-2xl'
 						target='_blank'
 						rel='noreferrer'
 					>
 						<div className='relative overflow-hidden'>
-							{/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
 							<img
 								src='/projects/taxisocial.jpeg'
 								alt='Taxi Social Image'
@@ -79,16 +78,15 @@ export default function FavouriteProjects() {
 								02
 							</h1>
 						</div>
-					</a>
+					</a> */}
 					{/* Single card */}
-					<a
+					{/* <a
 						href='https://taxispotfinder.liambrewster.co.uk'
 						className='w-full block col-span-3 sm:col-span-1  object-cover'
 						target='_blank'
 						rel='noreferrer'
 					>
 						<div className='relative overflow-hidden shadow-2xl'>
-							{/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
 							<img
 								src='/projects/parking.jpeg'
 								alt='portfolio'
@@ -101,7 +99,7 @@ export default function FavouriteProjects() {
 								03
 							</h1>
 						</div>
-					</a>
+					</a> */}
 				</div>
 			</div>
 		</div>

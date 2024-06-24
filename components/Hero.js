@@ -32,12 +32,15 @@ export default function Hero() {
 						</h1>
 					</RainbowHighlight>
 				</RoughNotationGroup>
-				<p className='text-lg text-gray-500 mt-6 dark:text-gray-300'>
-					Experienced in working with some of the top organisations in the UK taxi
-					industry, I spark change. With a clear vision and rich experience, I create
-					innovative strategies, provide crucial mentorship, and lead by example. My
-					aim? Steering the industry towards a brighter tomorrow, blending
-					innovation, guidance, and forward-thinking for a more vibrant future
+				<p className='text-base text-gray-500 mt-6 dark:text-gray-300'>
+					Leveraging my extensive experience with leading UK taxi companies,
+					passionate about actively driving industry progression. My approach
+					combines a clear, strategic vision with in-depth knowledge, enabling me to
+					develop innovative strategies and offer meaningful insights. I thrive on
+					getting deeply involved in projects that push the envelope, always seeking
+					opportunities to advance and improve. Committed to promoting positive
+					change, I aim to lead by example, inspiring innovation and ensure our
+					industry moves toward a promising and dynamic future.
 				</p>
 			</div>
 			{/* Image container */}
