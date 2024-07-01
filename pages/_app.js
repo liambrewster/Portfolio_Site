@@ -25,10 +25,9 @@ function MyApp({ Component, pageProps }) {
 			/>
 			<Script
 				defer
-				data-domain='liambrewster.co.uk'
-				src='https://plausible.liambrewster.com/js/script.js'
+				src='https://analytics.liambrewster.com/script.js'
+				data-website-id='35a4594e-91db-4448-a44c-3e34a934bd40'
 			/>
-
 			<Script
 				id='ga-script'
 				strategy='afterInteractive'
