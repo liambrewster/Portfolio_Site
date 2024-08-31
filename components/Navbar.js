@@ -156,7 +156,7 @@ export default function Navbar() {
 
 				<div className='space-x-4 flex flex-row items-center'>
 					{/* TODO: build login screen */}
-					<Link
+					{/* <Link
 						href='/login'
 						legacyBehavior
 					>
@@ -184,7 +184,7 @@ export default function Navbar() {
 								</svg>
 							)}
 						</a>
-					</Link>
+					</Link> */}
 					<a
 						href={userData.socialLinks.twitter}
 						className='text-base font-normal text-gray-600 dark:text-gray-300 transform hover:scale-110 hover:-rotate-3 transition duration-300 rounded-md  hover:text-gray-50'
