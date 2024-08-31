@@ -23,6 +23,74 @@ const userData = {
 		// 	imgUrl: '/projects/parking.jpeg',
 		// },
 	],
+	saas: [
+		{
+			title: 'TaxiBee',
+			link: 'https://taxibee.co.uk/?ref=liambrewster',
+			description:
+				'Taxi Bee is a UK-wide taxi search tool, curated by me, to help users find and book reliable rides in major cities.',
+			status: 'live',
+			revenue: '£0',
+			analytics: [
+				{ date: 'Mar', visitors: 154 },
+				{ date: 'Apr', visitors: 49 },
+				{ date: 'May', visitors: 57 },
+				{ date: 'Jun', visitors: 71 },
+				{ date: 'Jul', visitors: 136 },
+				{ date: 'Aug', visitors: 54 },
+			],
+		},
+		// {
+		// 	title: 'Schedulify',
+		// 	link: 'https://schedulify.co.uk/?ref=liambrewster',
+		// 	description:
+		// 		'This is a very short description to give some context for what it is what happens if it goes too far',
+		// 	status: 'building',
+		// 	revenue: '$60.0k',
+		// 	analytics: [
+		// 		{ date: 'Oct', visitors: 35000 },
+		// 		{ date: 'Dec', visitors: 45000 },
+		// 		{ date: 'Feb', visitors: 100000 },
+		// 		{ date: 'Apr', visitors: 140000 },
+		// 		{ date: 'Jun', visitors: 110000 },
+		// 		{ date: 'Aug', visitors: 105000 },
+		// 	],
+		// },
+		// {
+		// 	title: 'Booking Bot',
+		// 	link: 'https://schedulify.co.uk/?ref=liambrewster',
+		// 	description:
+		// 		'This is a very short description to give some context for what it is',
+		// 	status: 'building',
+		// 	revenue: '$60.0k',
+		// 	analytics: [
+		// 		{ date: 'Oct', visitors: 35000 },
+		// 		{ date: 'Dec', visitors: 45000 },
+		// 		{ date: 'Feb', visitors: 100000 },
+		// 		{ date: 'Apr', visitors: 140000 },
+		// 		{ date: 'Jun', visitors: 110000 },
+		// 		{ date: 'Aug', visitors: 105000 },
+		// 	],
+		// },
+		{
+			title: 'LB Host',
+			link: 'https://lbhost.co.uk/?ref=liambrewster',
+			description:
+				'LBHost is the platform where I manage billing for all my web hosting and tech services, ensuring seamless and efficient payment processing.',
+			status: 'live',
+			revenue: '£22',
+			analytics: [
+				{ date: 'Jan', visitors: 13 },
+				{ date: 'Feb', visitors: 30 },
+				{ date: 'Mar', visitors: 23 },
+				{ date: 'Apr', visitors: 24 },
+				{ date: 'May', visitors: 22 },
+				{ date: 'Jun', visitors: 16 },
+				{ date: 'Jul', visitors: 33 },
+				{ date: 'Aug', visitors: 21 },
+			],
+		},
+	],
 	about: {
 		title:
 			'I want to be a leader and shake up our industry, sparking change and creating awesome stuff for all to benefit',
